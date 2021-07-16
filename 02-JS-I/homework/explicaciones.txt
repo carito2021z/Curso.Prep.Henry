@@ -1,0 +1,9 @@
+// variables: es una forma de almacenar un contenido específico que necesiite usar más tarde, por ejemplo un nombre, una edad, un resultado del tipo verdadero o falso, etc.
+
+// strings: es un tipo de datos en JavaScript que toma la forma de un conjunto de caracteres, generalmente letras formando palabras. Se los escribe entre comillas.
+
+// Funciones: son una forma de guardar una serie de instrucciones o comandos para poder utilizarlos más tarde. Por ejemplo puedo necesitar que en la pantalla aparezca un saludo personalizado ingresando solamente el nombre y el país como por ejemplo,"Hola Carolina, cómo está Argentina hoy?" Hola Mariano, cómo está Chile hoy?".
+
+// Declaraciones 'if': son un tipo especial de funciones que vienen predeterminadas dentro del lenguaje JavaScript que me permite pedirle a la computadora que ejecute determinada acción si se dan ciertas condiciones. Por ejemplo, puedo pedirle que me diga "CORRECTO" o "INCORRECTO" según la respuesta a cierta pregunta.
+
+// Valores booleanos: son un tipo de dato nativo de JavaScript que nos indica si una afirmación es verdadera o falsa. Sus valores son true o false.
