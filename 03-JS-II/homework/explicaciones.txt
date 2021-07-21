@@ -1,0 +1,7 @@
+for: es un bucle de JavaScript, es decir, es un comando que se ejecutará hasta que la expresión condicional sea falsa. Por ejemplo, podemos pedirle a la consola que nos muestre los números de manera consecutiva de a uno en uno hasta que llegue al número 10 y allí se detenga. En el argumento se define la variable, luego la condición que al dejar de ser verdadera detendrá la ejecución y, por último el incremento que tendrá la variable. 
+
+&& es el "y" de JavaScript, es decir, es un operador lógico que evaluará la veracidad de las dos proposiciones que le anteceden y preceden respectivamente. La consola devolverá el valor "true" si ambas proposiciones son verdaderas y devolverá "false" si una o las dos proposiciones son falsas. 
+
+|| es el "o" de JavaScript, es decir, es otro operador lógico al igual que &&. La consola devolverá "true" si alguna de las proposiciones es verdadera y devolverá "false" si todas las proposiciones son falsas.
+
+! es otro operador lógico que, en este caso, devolverá el valor contrario en formato booleano. Es decir, si la sentencia es "verdadera" arrojará "false" y viceversa.
